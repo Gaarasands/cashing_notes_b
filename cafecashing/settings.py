@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'suppliers',
     'rawmaterials',
     'rawmaterials_suppliers',
-    'products'
+    'products',
+    'productrawmaterial'
 ]
 
 MIDDLEWARE = [
